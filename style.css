@@ -9,11 +9,6 @@
 }
 
 :root {
-    --cor0: white;
-    --cor01: black;
-    --cor02: aqua;
-    --cor03: rgb(34, 15, 105);
-
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: "Sigmar", sans-serif;
     --fonte-android: 'Android, cursive';
@@ -144,7 +139,7 @@ main img {
 }
 
 main img.grande {
-    max-width: 500px;
+    max-width: 900px;
     display: block;
     margin-top: auto;
    
